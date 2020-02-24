@@ -6,6 +6,7 @@
 
 # 推荐书籍
 李笑来著第三版[《定投改变命运》](https://onregularinvesting.com/#/)
+[李笑来主页 几乎他的所有好书](https://github.com/xiaolai/xiaolai.github.io)
 
 # 个人言论
 ## Beyond feelings 对研究医学有什么用？
