@@ -5,7 +5,7 @@
 [《桂林古本伤寒杂病论笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
 
 # 推荐书籍
-李笑来著第三版[定投改变命运](https://onregularinvesting.com/#/)
+李笑来著第三版[《定投改变命运》](https://onregularinvesting.com/#/)
 
 # 个人言论
 ## Beyond feelings 对研究医学有什么用？
