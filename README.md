@@ -1,7 +1,8 @@
-# liufubo9.github.io
 # 欢迎来到刘福波的个人网页。
+# liufubo9.github.io
 
-[桂林古本《伤寒杂病论》笔记刘福波](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
+# 个人书籍
+[《桂林古本伤寒杂病论笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
 
 # 个人言论
 ## Beyond feelings 对研究医学有什么用？
@@ -15,6 +16,3 @@
 同时在实践中，很多具体问题是现代医学和现代科学理论很占优势的，同样很多具体问题是中医药的一些具体思维逻辑管用。就批判而言，现代医学与科学有很多具体问题至今无解，而大多数人诟病中医药的陈腐落后也的确存在。
 
 总的一看，超越感觉就是打开视野。绝大多数人都还是在镜子的另一个世界自以为是。
-
-写了这点认识，发现应该转到自己刚被李骏老师教会的GitHub的独立网页上。
-
