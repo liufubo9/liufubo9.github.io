@@ -4,6 +4,9 @@
 # 个人书籍
 [《桂林古本伤寒杂病论笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
 
+# 推荐书籍
+李笑来著第三版[定投改变命运](https://onregularinvesting.com/#/)
+
 # 个人言论
 ## Beyond feelings 对研究医学有什么用？
 作为一名中医专业的医生，中西医的课程大学几乎是五五开的，这一点普通人一般不了解。医学的本质其实没有中西之分，医生就是运用医学知识来为人类解除病痛的。
