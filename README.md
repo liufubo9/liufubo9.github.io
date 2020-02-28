@@ -4,6 +4,8 @@
 # 个人书籍
 [《桂林古本伤寒杂病论笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
 
+[《白云阁本难经笔记》 刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/blob/master/TCM/%E3%80%8A%E7%99%BD%E4%BA%91%E9%98%81%E6%9C%AC%E9%9A%BE%E7%BB%8F%E7%AC%94%E8%AE%B0%E3%80%8B%E5%88%98%E7%A6%8F%E6%B3%A2%E7%BC%96%E6%B3%A8.MD)
+
 # 推荐书籍
 李笑来著第三版[《定投改变命运》](https://onregularinvesting.com/#/)
 
