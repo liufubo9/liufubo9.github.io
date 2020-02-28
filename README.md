@@ -6,6 +6,7 @@
 
 # 推荐书籍
 李笑来著第三版[《定投改变命运》](https://onregularinvesting.com/#/)
+[如何自助 —— 助人即助己—— 重大病毒性疫情中如何应对创伤应激障碍](https://github.com/xiaolai/help-to-be-helped)
 [李笑来主页 几乎他的所有好书](https://github.com/xiaolai/xiaolai.github.io)
 
 # 个人言论
