@@ -1,5 +1,8 @@
 # 欢迎来到刘福波的个人网页。
-# liufubo9.github.io邮箱：liufubo999@gmail.com
+
+# liufubo9.github.io
+
+# liufubo999@gmail.com
 
 # 个人书籍
 [《桂林古本伤寒杂病论笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
