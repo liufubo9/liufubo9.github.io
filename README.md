@@ -1,7 +1,5 @@
 # 欢迎来到刘福波的个人网页。
 
-# liufubo9.github.io
-
 # liufubo999@gmail.com
 
 # 个人书籍
