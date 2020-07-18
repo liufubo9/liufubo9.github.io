@@ -1,6 +1,6 @@
 # 欢迎来到刘福波的个人网页。中医人要有解决疑难危重病的底气。
 
-# liufubo999@gmail.com
+# liufubo999@gmail.com 531120037@qq.com
 
 # 个人书籍
 [《桂林古本伤寒杂病论笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/tree/master/TCM)
