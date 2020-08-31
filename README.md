@@ -10,6 +10,7 @@
 [《原始点医学2019年12月第十六版笔记》刘福波编注](https://github.com/liufubo9/Traditional-Chinese-medicine/blob/master/TCM/%E3%80%8A%E5%8E%9F%E5%A7%8B%E7%82%B9%E5%8C%BB%E5%AD%A62019%E5%B9%B412%E6%9C%88%E5%8D%81%E5%85%AD%E7%89%88%E7%AC%94%E8%AE%B0%E3%80%8B.MD)
 
 [《卢氏药物配合阐述》刘福波抄录及笔记](https://github.com/liufubo9/Traditional-Chinese-medicine/blob/master/TCM/%E3%80%8A%E5%8D%A2%E6%B0%8F%E8%8D%AF%E7%89%A9%E9%85%8D%E5%90%88%E9%98%90%E8%BF%B0%E3%80%8B%E5%88%98%E7%A6%8F%E6%B3%A2%E7%AC%94%E8%AE%B0.md)
+[《卢氏临证实验录》刘福波笔记](https://github.com/liufubo9/Traditional-Chinese-medicine/blob/master/TCM/%E3%80%8A%E5%8D%A2%E6%B0%8F%E4%B8%B4%E8%AF%81%E5%AE%9E%E9%AA%8C%E5%BD%95%E3%80%8B%E5%88%98%E7%A6%8F%E6%B3%A2%E7%AC%94%E8%AE%B0.md)
 
 # 推荐书籍
 李笑来著第三版[《定投改变命运》](https://onregularinvesting.com/#/)
